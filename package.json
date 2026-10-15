@@ -1,5 +1,5 @@
 {
-  "name": "@wenyan-md/cli",
+  "name": "@xdewx/wx-pub-cli",
   "version": "2.0.12",
   "description": "A CLI tool for Wenyan markdown rendering & publishing",
   "author": "Lei <caol64@gmail.com> (https://github.com/caol64)",
@@ -15,20 +15,22 @@
   ],
   "type": "module",
   "bin": {
+    "wx-pub-cli": "./dist/cli.js",
     "wenyan": "./dist/cli.js"
   },
   "main": "./dist/index.js",
   "types": "./dist/types/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "BUILD.md"
   ],
-  "homepage": "https://github.com/caol64/wenyan-cli#readme",
+  "homepage": "https://github.com/xdewx/wx-pub-cli#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caol64/wenyan-cli.git"
+    "url": "git+https://github.com/xdewx/wx-pub-cli.git"
   },
   "bugs": {
-    "url": "https://github.com/caol64/wenyan-cli/issues"
+    "url": "https://github.com/xdewx/wx-pub-cli/issues"
   },
   "scripts": {
     "build": "tsc",

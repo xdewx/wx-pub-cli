@@ -33,7 +33,7 @@ export function createProgram(version: string = pkg.version): Command {
     const program = new Command();
 
     program
-        .name("wenyan")
+        .name("wx-pub-cli")
         .description("CLI for WenYan - A Markdown render and publisher tool.")
         .version(version, "-v, --version", "output the current version")
         .action(() => {

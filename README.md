@@ -4,6 +4,8 @@
 
 # 文颜 CLI
 
+`wx-pub-cli` fork 的本地构建与使用说明见 [BUILD.md](BUILD.md)。
+
 [![npm](https://img.shields.io/npm/v/@wenyan-md/cli)](https://www.npmjs.com/package/@wenyan-md/cli)
 [![License](https://img.shields.io/github/license/caol64/wenyan-cli)](LICENSE)
 ![NPM Downloads](https://img.shields.io/npm/dm/%40wenyan-md%2Fcli)
