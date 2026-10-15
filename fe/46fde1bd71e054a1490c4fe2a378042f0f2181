@@ -1,0 +1,20 @@
+BUILD.md
+  h_6539c3a3cd32c4 1-22
+README.md
+  h_6539c3a3cd32c4 7-8
+package.json
+  h_6539c3a3cd32c4 2,18,24-25,27,30,33
+src/cli.ts
+  h_6539c3a3cd32c4 36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fe46fde1bd71e054a1490c4fe2a378042f0f2181",
+  "prompts": {},
+  "humans": {
+    "h_6539c3a3cd32c4": {
+      "author": "xdewx <present150608@sina.com>"
+    }
+  }
+}
